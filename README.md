@@ -1,0 +1,1 @@
+This project is to create react app without create-react-app tool with redux
